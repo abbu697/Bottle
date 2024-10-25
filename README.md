@@ -5,10 +5,12 @@ With help of form, we can check the various parameters of the product like the m
 
 
 form sample is given below:-
+
                                                       reading 1                              reading 2                      reading 3
 
+
 major axis ,
- minor axis , 
+minor axis , 
 height, 
 thickness 
 neck dia 
